@@ -9,4 +9,4 @@ Methods : two segmentation models are provided :
 1. Our algorithm using (watershed, k-means clustering etc).
 2. SAM ( Segment anything model ) by facebook is used as the reference model in order to confirm the first algorithm.
 
--This project was done in Grenoble-INP (Phelma) by Kourosh Gerayeli and Sina khanagha
+-This project was done in Grenoble-INP (Phelma) by Kourosh Gerayeli and Sina Khanagha
